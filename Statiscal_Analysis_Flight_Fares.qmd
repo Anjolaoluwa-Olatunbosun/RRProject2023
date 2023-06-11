@@ -34,6 +34,7 @@ This project converts and extends a Python notebook on "**Statistical Analysis &
 10. Additional info: Additional information about the flight.
 11. Price: The fare or price of the flight ticket.
 
+
 ##### LOAD REQUIRED LIBRARIES
 
 ```{r}
